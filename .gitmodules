@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "VGAM"]
 	path = VGAM
 	url = https://github.com/cran/VGAM
-	shallow = true
-	registered = true
 [submodule "VGAMdata"]
 	path = VGAMdata
 	url = https://github.com/cran/VGAMdata
-	shallow = true
-	registered = true
